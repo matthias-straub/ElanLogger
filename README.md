@@ -3,6 +3,8 @@ Lotus Elan M100 ALDL data logger based on Arduino that logs directly to an SD ca
 
 Join the community at https://www.lotuselancentral.com
 
+Follow the discussion at https://forum.lotuselancentral.com/viewtopic.php?f=34&t=26145
+
 This is a data logger based on Arduino that logs directly to an SD card in ElanScan's .ecu-format.
 It is small, very simple to build, runs on power supplied by the ALDL connector and can easily stay inside the car hidden below the dashboard in the passenger footwell.
 You should be able to build it for reasonable 30 GBP/Euros.
