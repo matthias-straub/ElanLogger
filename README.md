@@ -1,6 +1,8 @@
 # ElanLogger
 Lotus Elan M100 ALDL data logger based on Arduino that logs directly to an SD card in ElanScan's .ecu-format.
 
+Join the community at https://www.lotuselancentral.com
+
 This is a data logger based on Arduino that logs directly to an SD card in ElanScan's .ecu-format.
 It is small, very simple to build, runs on power supplied by the ALDL connector and can easily stay inside the car hidden below the dashboard in the passenger footwell.
 You should be able to build it for reasonable 30 GBP/Euros.
@@ -77,7 +79,7 @@ If you fail to do so, i.e. you turn off the data logger before turning off the i
 - The internal clock on ElanLogger will initialize with the time that the sketch has been loaded onto the Arduino board. To reset date and time, take the battery out and install the sketch again.
 
 EDIT July 18th 2017:
-Replaced ElanLogger.zip with an updated version 1.1
+Replaced ElanLogger.ino with an updated version 1.1
 This new version will visually indicate success by flashing the builtin LED in one second intervals after the file has been closed (ignition has been turned off, i.e. the car stopped talking).
 Any error (e.g. no sd card inserted) will be indicated by a rapidly flashing LED.
 
@@ -88,7 +90,7 @@ EDIT Sept 30th 2021:
 Added version 1.0.3 recommendation for SDFat. Newer versions might cause corrupt .ecu-files ("Invalid floating point operation." error in ElanScan).
 
 EDIT Oct 4th 2021:
-Updated ElanLogger.zip with stability improvements.
+Updated ElanLogger.ino with stability improvements.
 
 EDIT Aug 24th 2022:
 If you have trouble finding the right spot to change the serial buffer size in your Arduino IDE, here is a hint:
