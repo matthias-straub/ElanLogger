@@ -10,19 +10,22 @@ So if you are not afraid of frying your Arduino board or your ECU, please read o
 What you will need (with prices I paid online for reference):
 
 Data logger board:
-1 Arduino Uno R3 or compatible - €8
-1 Arduino data logger shield with RTC - €8
-1 SD card 2GB or less - €5
+
+- 1 Arduino Uno R3 or compatible - €8
+- 1 Arduino data logger shield with RTC - €8
+- 1 SD card 2GB or less - €5
 
 Interface cable:
-1 Opel OBD1 to OBD2 adapter, 10 pin - €8
-2 resistors, 100 ohms - €.2
-1 zener diode (1N4733A) - €.1
-1 on-off switch - €1
-4 Arduino jumper cables - €.5
+
+- 1 Opel OBD1 to OBD2 adapter, 10 pin - €8
+- 2 resistors, 100 ohms - €.2
+- 1 zener diode (1N4733A) - €.1
+- 1 on-off switch - €1
+- 4 Arduino jumper cables - €.5
 
 Software:
-1 ElanLogger Arduino sketch - free for M100 owners and attached below
+
+- 1 ElanLogger Arduino sketch - free for M100 owners and attached below
 
 Building instructions:
 
