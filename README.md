@@ -29,7 +29,7 @@ Interface cable:
 
 Software:
 
-- 1 ElanLogger Arduino sketch - free for M100 owners and attached below
+- 1 ElanLogger Arduino sketch - see .ino-File in "ElanLogger" folder
 
 Building instructions:
 
